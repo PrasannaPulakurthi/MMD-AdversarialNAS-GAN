@@ -10,7 +10,7 @@ This repository contains code for our **ICASSP 2024** paper "**Enhancing GAN Per
 by [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Mahsa Mozaffari](https://mahsamozaffari.com/), [Sohail A. Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani), [Jamison Heard](https://www.rit.edu/directory/jrheee-jamison-heard), and [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600). [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf) [[PPT]](https://sigport.org/documents/enhancing-gan-performance-through-neural-architecture-search-and-tensor-decomposition) [[Paper]](https://ieeexplore.ieee.org/document/10446488)
 
 > **New Update (November 2024):**  
-> An extended version of this work, titled **"Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition,"** has been published in **IEEE Access 2024**. 🔗 [Paper](https://ieeexplore.ieee.org/document/10732016) | 🌐 [Project Website](https://prasannapulakurthi.github.io/mmdpmishnas/)  
+> An extended version of this work, titled **"Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition,"** has been published in **IEEE Access 2024**. 🔗 [Paper](https://ieeexplore.ieee.org/document/10732016) | 🌐 [Project Website](https://prasannapulakurthi.github.io/MMD-PMish-NAS/)  
 > The latest version of the code corresponding to the extended paper is available [here](https://github.com/PrasannaPulakurthi/MMD-PMish-NAS).
 
 ## Qualitative Results
@@ -118,8 +118,18 @@ Please consider citing our paper in your publications if it helps your research.
   number={},
   pages={7280-7284},
   keywords={Training;Performance evaluation;Tensors;Image coding;Image synthesis;Image edge detection;Computer architecture;Neural Architecture Search;Maximum Mean Discrepancy;Generative Adversarial Networks},
-  doi={10.1109/ICASSP48485.2024.10446488}
-}
+  doi={10.1109/ICASSP48485.2024.10446488}}
+
+@ARTICLE{10732016,
+  author={Pulakurthi, Prasanna Reddy and Mozaffari, Mahsa and Dianat, Sohail and Heard, Jamison and Rao, Raghuveer and Rabbani, Majid},
+  journal={IEEE Access}, 
+  title={Enhancing GANs With MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition}, 
+  year={2024},
+  volume={12},
+  number={},
+  pages={174222-174244},
+  keywords={Generative adversarial networks;Training;Generators;Image coding;Acute respiratory distress syndrome;Tensors;Standards;Neural networks;Image synthesis;Adaptive systems;Activation function;generative adversarial network;maximum mean discrepancy;neural architecture search;tensor decomposition},
+  doi={10.1109/ACCESS.2024.3485557}}
 ```
 
 ## Acknowledgement
