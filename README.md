@@ -1,4 +1,4 @@
-# <p align="center">ENHANCING GAN PERFORMANCE THROUGH NEURAL ARCHITECTURE SEARCH AND TENSOR DECOMPOSITION (MMD-AdversarialNAS)</p>
+# <p align="center">ENHANCING GAN PERFORMANCE THROUGH NEURAL ARCHITECTURE SEARCH AND TENSOR DECOMPOSITION (MMD-AdversarialNAS-GAN)</p>
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10446488"><img src="https://img.shields.io/badge/IEEE%20ICASSP%202024-Paper-blue" alt="IEEE ICASSP 2024"></a>
@@ -10,7 +10,7 @@ This repository contains code for our **ICASSP 2024** paper "**Enhancing GAN Per
 by [Prasanna Reddy Pulakurthi](https://www.prasannapulakurthi.com/), [Mahsa Mozaffari](https://mahsamozaffari.com/), [Sohail A. Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani), [Jamison Heard](https://www.rit.edu/directory/jrheee-jamison-heard), and [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600). [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf) [[PPT]](https://sigport.org/documents/enhancing-gan-performance-through-neural-architecture-search-and-tensor-decomposition) [[Paper]](https://ieeexplore.ieee.org/document/10446488)
 
 > **New Update (November 2024):**  
-> An extended version of this work, titled **"Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition,"** has been published in **IEEE Access 2024**. 🔗 [Paper](https://ieeexplore.ieee.org/document/10732016) | 🌐 [Project Website](https://prasannapulakurthi.github.io/MMD-PMish-NAS/)  
+> An extended version of this work, titled **"Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition,"** has been published in **IEEE Access 2024**. 🔗 [Paper](https://ieeexplore.ieee.org/document/10732016) | 🌐 [Project Website](https://prasannapulakurthi.github.io/MMD-PMish-NAS-GAN/)  
 > The latest version of the code corresponding to the extended paper is available [here](https://github.com/PrasannaPulakurthi/MMD-PMish-NAS).
 
 ## Qualitative Results
