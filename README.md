@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10446488"><img src="https://img.shields.io/badge/IEEE%20ICASSP%202024-Paper-blue" alt="IEEE ICASSP 2024"></a>
-  <a href="https://paperswithcode.com/paper/enhancing-gan-performance-through-neural"><img src="https://img.shields.io/badge/Papers%20with%20Code-MMD--AdversarialNAS-blue" alt="Papers with Code"></a>
+  <a href="https://huggingface.co/spaces/prasannareddyp/MMD-PMish-NAS-GAN"><img src="https://img.shields.io/badge/Hugging Face-Demo-white.svg" alt="arXiv"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
